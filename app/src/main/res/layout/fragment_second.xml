@@ -28,4 +28,14 @@
         android:layout_height="wrap_content"
         android:text="@string/fragment_second_btn" />
 
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <Button
+        android:id="@+id/btnOperations"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fragment_second_btn_op" />
+
 </LinearLayout>

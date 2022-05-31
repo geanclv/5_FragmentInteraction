@@ -1,9 +1,15 @@
 <resources>
     <string name="app_name">Fragment Interaction</string>
     <string name="app_welcome">Hello from Activity ;)</string>
+    <string name="app_btn_first">I am 1</string>
+    <string name="app_btn_second">I am 2</string>
+    <string name="app_btn_third">I am 3</string>
 
     <string name="fragment_first_hello">I am first fragment</string>
     <string name="fragment_first_btn">Click</string>
     <string name="fragment_second_hello">I am second fragment</string>
     <string name="fragment_second_btn">Say Hello!</string>
+    <string name="fragment_second_btn_op">Go to Operations</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
