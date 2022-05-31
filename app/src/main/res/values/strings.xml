@@ -4,6 +4,7 @@
     <string name="app_btn_first">I am 1</string>
     <string name="app_btn_second">I am 2</string>
     <string name="app_btn_third">I am 3</string>
+    <string name="app_btn_change">I will change everything</string>
 
     <string name="fragment_first_hello">I am first fragment</string>
     <string name="fragment_first_btn">Click</string>
