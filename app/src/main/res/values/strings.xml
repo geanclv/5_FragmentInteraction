@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">5_FragmentInteraction</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Fragment Interaction</string>
+    <string name="app_welcome">Hello from Activity ;)</string>
+
+    <string name="fragment_first_hello">I am first fragment</string>
+    <string name="fragment_first_btn">Click</string>
+    <string name="fragment_second_hello">I am second fragment</string>
+    <string name="fragment_second_btn">Say Hello!</string>
 </resources>

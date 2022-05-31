@@ -3,30 +3,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_blue_light"
+    android:background="@color/white"
     android:orientation="vertical"
-    tools:context=".ui.FirstFragment">
+    tools:context=".ui.SecondFragment">
 
     <Space
         android:layout_width="match_parent"
         android:layout_height="10dp" />
 
     <TextView
-        android:id="@+id/lblFirstFragment"
+        android:id="@+id/lblSecondFragment"
         android:layout_width="match_parent"
+        android:textColor="@color/black"
         android:layout_height="wrap_content"
-        android:text="@string/fragment_first_hello"
-        android:textColor="@color/white" />
+        android:text="@string/fragment_second_hello" />
 
     <Space
         android:layout_width="match_parent"
         android:layout_height="10dp" />
 
     <Button
-        android:id="@+id/btnFirstFragment"
+        android:id="@+id/btnSecondFragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@android:color/darker_gray"
-        android:text="@string/fragment_first_btn" />
+        android:text="@string/fragment_second_btn" />
 
 </LinearLayout>
